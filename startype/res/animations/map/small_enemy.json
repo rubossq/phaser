@@ -1,0 +1,35 @@
+{"frames": {
+
+"low_ship_Kopia.png":
+{
+	"frame": {"x":0,"y":0,"w":111,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":102},
+	"sourceSize": {"w":111,"h":102}
+},
+"low_ship_Kopia_2.png":
+{
+	"frame": {"x":0,"y":102,"w":63,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":78},
+	"sourceSize": {"w":63,"h":78}
+},
+"low_ship_Kopia_3.png":
+{
+	"frame": {"x":63,"y":102,"w":63,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":78},
+	"sourceSize": {"w":63,"h":78}
+}
+}, 
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "small_enemy.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256}
+}
+}

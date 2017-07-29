@@ -1,0 +1,35 @@
+{"frames": {
+
+"Mid1.png":
+{
+	"frame": {"x":0,"y":0,"w":189,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":189,"h":146},
+	"sourceSize": {"w":189,"h":146}
+},
+"Mid2.png":
+{
+	"frame": {"x":0,"y":146,"w":111,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":126},
+	"sourceSize": {"w":111,"h":126}
+},
+"Mid3.png":
+{
+	"frame": {"x":111,"y":146,"w":111,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":126},
+	"sourceSize": {"w":111,"h":126}
+}
+}, 
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "middle_enemy.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512}
+}
+}

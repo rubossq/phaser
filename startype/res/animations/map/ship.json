@@ -1,0 +1,75 @@
+{"frames": {
+
+"ship shot animation_00000.png":
+{
+	"frame": {"x":0,"y":0,"w":68,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":23,"w":68,"h":74},
+	"sourceSize": {"w":100,"h":120}
+},
+"ship shot animation_00001.png":
+{
+	"frame": {"x":68,"y":0,"w":68,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":23,"w":68,"h":74},
+	"sourceSize": {"w":100,"h":120}
+},
+"ship shot animation_00002.png":
+{
+	"frame": {"x":136,"y":0,"w":68,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":23,"w":68,"h":74},
+	"sourceSize": {"w":100,"h":120}
+},
+"ship shot animation_00003.png":
+{
+	"frame": {"x":204,"y":0,"w":70,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":23,"w":70,"h":74},
+	"sourceSize": {"w":100,"h":120}
+},
+"ship shot animation_00004.png":
+{
+	"frame": {"x":274,"y":0,"w":74,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":14,"w":74,"h":90},
+	"sourceSize": {"w":100,"h":120}
+},
+"ship shot animation_00005.png":
+{
+	"frame": {"x":348,"y":0,"w":72,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":120},
+	"sourceSize": {"w":100,"h":120}
+},
+"ship shot animation_00006.png":
+{
+	"frame": {"x":420,"y":0,"w":70,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":23,"w":70,"h":74},
+	"sourceSize": {"w":100,"h":120}
+},
+"ship shot animation_00007.png":
+{
+	"frame": {"x":0,"y":120,"w":68,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":23,"w":68,"h":74},
+	"sourceSize": {"w":100,"h":120}
+}
+}, 
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "ship.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":256}
+}
+}

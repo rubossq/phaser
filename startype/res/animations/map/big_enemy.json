@@ -1,0 +1,35 @@
+{"frames": {
+
+"MS1.png":
+{
+	"frame": {"x":0,"y":0,"w":314,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":314,"h":193},
+	"sourceSize": {"w":314,"h":193}
+},
+"MS2.png":
+{
+	"frame": {"x":0,"y":193,"w":220,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":171},
+	"sourceSize": {"w":220,"h":171}
+},
+"MS3.png":
+{
+	"frame": {"x":220,"y":193,"w":220,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":171},
+	"sourceSize": {"w":220,"h":171}
+}
+}, 
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "big_enemy.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512}
+}
+}

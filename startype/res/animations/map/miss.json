@@ -1,0 +1,35 @@
+{"frames": {
+
+"error1.png":
+{
+	"frame": {"x":0,"y":0,"w":74,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":31,"w":74,"h":68},
+	"sourceSize": {"w":120,"h":100}
+},
+"error2.png":
+{
+	"frame": {"x":0,"y":68,"w":74,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":31,"w":74,"h":68},
+	"sourceSize": {"w":120,"h":100}
+},
+"error3.png":
+{
+	"frame": {"x":0,"y":0,"w":74,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":31,"w":74,"h":68},
+	"sourceSize": {"w":120,"h":100}
+}
+}, 
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "miss.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256}
+}
+}

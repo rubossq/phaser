@@ -1,0 +1,35 @@
+{"frames": {
+
+"small1.png":
+{
+	"frame": {"x":0,"y":0,"w":43,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":46},
+	"sourceSize": {"w":43,"h":46}
+},
+"small2.png":
+{
+	"frame": {"x":43,"y":0,"w":21,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":24},
+	"sourceSize": {"w":21,"h":24}
+},
+"small3.png":
+{
+	"frame": {"x":0,"y":46,"w":21,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":24},
+	"sourceSize": {"w":21,"h":24}
+}
+}, 
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "micro_enemy.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128}
+}
+}
